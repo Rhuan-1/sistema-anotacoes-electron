@@ -1,0 +1,17 @@
+{
+  "name": "template-electron-app",
+  "version": "1.0.0",
+  "description": "template base para criar aplicaçoes desktop com electron.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electronmon ."
+  },
+  "keywords": [],
+  "author": "rhuan",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^36.2.0",
+    "electronmon": "^2.0.3"
+  }
+}
